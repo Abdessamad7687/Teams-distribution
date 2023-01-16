@@ -20,8 +20,7 @@ function App() {
                   type="text"
                   className="form-control"
                   id="Username"
-                  aria-describedby="emailHelp"
-                  placeholder="User Name"
+                  placeholder="User"
                 />
               </div>
               <div className="mb-3">
@@ -38,10 +37,10 @@ function App() {
                 </button>
               </div>
               <div id="email" className="form-text text-center mb-5 text-dark">
-                Not Registered?{" "}
+                 By{" "}
                 <a href="#" className="text-dark fw-bold">
                   {" "}
-                  Create an Account
+                  Abdessamad
                 </a>
               </div>
             </form>
